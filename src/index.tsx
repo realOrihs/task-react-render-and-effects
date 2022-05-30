@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+// @ts-ignore
 import ReactDOM from 'react-dom';
 import { APIControls } from './resources/APIControls';
 import { Effects } from './Effects';
